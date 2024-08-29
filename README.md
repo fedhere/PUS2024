@@ -1,6 +1,6 @@
-# PUS2022
+# PUS2024
 
-## Principles of Urban Science 2022
+## Principles of Urban Science 2024
 
 
 Class website [http://fbb.space/PUS2022/](http://fbb.space/PUS2022/)
