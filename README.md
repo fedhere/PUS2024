@@ -3,7 +3,6 @@
 ## Principles of Urban Science 2024
 
 
-%Class website [http://fbb.space/PUS2022/](http://fbb.space/PUS2022/)
 
 Code of Conduct
 Welcome to UD, the Biden School, Principle of Urban Science! Diversity is considered a resource that enriches us culturally and intellectually in this class.
