@@ -1,16 +1,19 @@
 # HW 1: 
 
 # Reading 
+The ethical dangers and merits of predictive policing, Kutnowski 2017
 
-# Assignment 1: Due on Tuesday to 6th at 11:59PM
+https://www.researchgate.net/publication/333498701_The_ethical_dangers_and_merits_of_predictive_policing
+
+# Assignment 1: Due on Tuesday to 3rd at 12:00PM
 - make an account on GitHub if you do not have one yet. Here are some screenshots that describe the process (note that I have an account with username fedhere, as you know, in the screenshots below I am pretending to make a new one as if I did not have one)
 
 <img src="../imgs/Screen Shot 2022-08-30 at 2.45.43 PM.png" width=500>
 <img src="../imgs/Screen Shot 2022-08-30 at 2.47.09 PM.png" width=500>
 
 
-- Create a repository called FDSfE\_\<FirstinitialLastname\>;
-my first initial is F, my last name is Bianco, so mine is PUS2022\_FBianco
+- Create a repository called PUS2024\_\<FirstinitialLastname\>;
+my first initial is F, my last name is Bianco, so mine is PUS2024\_FBianco
 
 <img src="../imgs/Screen Shot 2022-08-30 at 3.23.08 PM.png" width=500>
 
@@ -21,10 +24,7 @@ my first initial is F, my last name is Bianco, so mine is PUS2022\_FBianco
  <img src="../imgs/Screen Shot 2022-09-01 at 7.31.07 PM.png" width=500>
 
   
-- upload to your github repo the colab notebook we have worked on in class. the colab notebooks should appear in a folder HW1 and have a google colab link (more instructions will appear on github)
-
-<img src="../imgs/Screen Shot 2022-08-31 at 2.54.15 PM.png" width=500>
-
-- post your github repo URL on canvas
-
+- Read the class Code of Conduct https://github.com/fedhere/PUS2024/blob/main/CodeofConduct.md
+- 
+- Answer the Code of Conduct form at https://forms.gle/ydgGXFxnXXFfkcFa6 including the URL of your github repo
   
