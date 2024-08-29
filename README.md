@@ -15,15 +15,16 @@ This is an interdisciplinary class that combines technical and domain skills. Do
 The course will be organized in a modular fashion, with some guest lectures. 
 	
 
-Meeting pattern: M-W 3:30-4:50PM online at 
+Meeting pattern: T-Th 3:30-4:50PM online at 
 The instructors is: Dr. Federica Bianco fbianco@udel.edu 
-oﬃce hours: Tentatively: Wednesdays 1200-2PM (or by appointment).
+oﬃce hours: Tentatively: Tuesdays 1200-2PM (or by appointment).
 
 
 
 
-Each week you will have two sessions, each a mix of  lecture and lab. Classes are synchronous and attendance in lecture and lab is mandatory. The material will be covered in the slides handed out every week and, but participating to the class and the discussions therein will be crucial for your development in the class.					
-Learning Outcomes 
+Each week you will have two sessions, each a mix of  lecture and lab. Classes are synchronous and attendance in lecture and lab is mandatory. The material will be covered in the slides handed out every week and, but participating to the class and the discussions therein will be crucial for your development in the class.		
+
+**Learning Outcomes**
 By the end of this class you should be able to formulate an appropriate analysis plan for a research question, select, gather, and prepare data for analysis, and choose and apply machine learning methods to the data.				
 
 ### Books: 
