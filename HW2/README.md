@@ -21,7 +21,7 @@ You can open the notebook or create a new notebook and copy the content of the c
 
 # Assignment 2 NHRT
 
-_Formulate a scientific hypothesis
+_Formulate a scientific hypothesis_
 
 **Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2024/blob/master/HW2/PhillyParks_instructions.ipynb)**
 
