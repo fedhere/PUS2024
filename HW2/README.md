@@ -1,7 +1,7 @@
 ## Due Monday 14 12PM
 
 # Slides
-https://slides.com/federicabianco/pus_02
+https://slides.com/federicabianco/pus_02 https://slides.com/federicabianco/pus_03
 
 
 # Assigned Reading
