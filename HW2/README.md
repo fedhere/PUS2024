@@ -15,13 +15,15 @@ Note the flowchart of the data analysis in the second page and try to remember t
 
 You are encouraged to work in groups!! I advise you look for partners to work with on slack. If you need help finding a partner let me know.
 
-**Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2020_FBianco/blob/master/HW2/PhillyParks_instructions.ipynb)** 
+**Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2024/blob/master/HW2/PhillyParks_instructions.ipynb)** 
 
 You can open the notebook or create a new notebook and copy the content of the cells where needed. 
 
 # Assignment 2 NHRT
 
-_Formulate a scientific hypothesis_
+_Formulate a scientific hypothesis
+
+**Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2024/blob/master/HW2/PhillyParks_instructions.ipynb)**
 
 ## I - Answer four our of the five forms below, the ones you did not work on in class
 Does exercise help lose more weight than diet alone? <a href="http://bit.ly/htexercize" target="_blank">http://bit.ly/htexercize</a></p>
