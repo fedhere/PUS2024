@@ -10,22 +10,28 @@ https://slides.com/federicabianco/pus_02 https://slides.com/federicabianco/pus_0
 This paper argues that a common mistake in data science is to rush conclusions that are simply not supported by the kind of analysis that was performed. 
 Note the flowchart of the data analysis in the second page and try to remember the phases of the analysis and their order.
 
-# Assignment 1 
+# ASSIGNMENTS: You are encouraged to work in groups!! I advise you look for partners to work with on slack. If you need help finding a partner let me know.
+
+## Assignment 1 Descriptive Statistics
 
 
-You are encouraged to work in groups!! I advise you look for partners to work with on slack. If you need help finding a partner let me know.
+
+Descriptive statistics of Philly parks
 
 **Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2024/blob/master/HW2/PhillyParks_instructions.ipynb)** 
 
 You can open the notebook or create a new notebook and copy the content of the cells where needed. 
 
-# Assignment 2 NHRT
+## Assignment 2 NHRT
 
 _Formulate a scientific hypothesis_
 
-**Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2024/blob/master/HW2/PhillyParks_instructions.ipynb)**
+### I - Formulate a Citibike hypothesis, making the data support it
 
-## I - Answer four our of the five forms below, the ones you did not work on in class
+You can open the notebook or create a new notebook where I have an example of a filisifiable Null Hypothesis based on Citibike
+**[skeleton notebook](https://github.com/fedhere/PUS2024/blob/master/HW2/PhillyParks_instructions.ipynb)**
+
+#### II - Answer four our of the five forms below, the ones you did not work on in class
 Does exercise help lose more weight than diet alone? <a href="http://bit.ly/htexercize" target="_blank">http://bit.ly/htexercize</a></p>
 
 Do urban citizens use cellphone more than their rural counterpart? <a href="http://bit.ly/htinternetaccess" targret="_blank">http://bit.ly/htinternetaccess</a></p>
