@@ -18,7 +18,7 @@ Note the flowchart of the data analysis in the second page and try to remember t
 
 Descriptive statistics of Philly parks
 
-**Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2024/blob/master/HW2/PhillyParks_instructions.ipynb)** 
+**Follow instructions in the [skeleton notebook](https://github.com/fedhere/PUS2024/blob/master/HW2/citibikes_gender.ipynb)** 
 
 You can open the notebook or create a new notebook and copy the content of the cells where needed. 
 
