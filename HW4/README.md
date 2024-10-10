@@ -5,3 +5,5 @@ https://www.ted.com/talks/geoffrey_west_the_surprising_math_of_cities_and_corpor
 HOMEWORK: 
 Follow the instructions in the notebook /MODEL_SELECTION_Walking_Speed_linear_regression_instructions.ipynb
 
+Look for cells tagged with TODO
+
