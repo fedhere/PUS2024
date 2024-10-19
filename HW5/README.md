@@ -1,5 +1,5 @@
 
-# See notebok - TASK 6 is extra credit
+# See notebok - TASK 6 is now mandatory but deadline 10/29 at midnight (11:59:59PM)
 
 You are reproducing publised research in "Examining the feasibility of using open data to benchmark building energy usage in cities: A data science and policy perspective" [Roth et al 2019](https://www.researchgate.net/publication/337074109_Examining_the_feasibility_of_using_open_data_to_benchmark_building_energy_usage_in_cities_A_data_science_and_policy_perspective).
 
